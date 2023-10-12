@@ -1,4 +1,4 @@
--- ftd.text: Hello World
+
 -- import: fastn-community.github.io/bling/quote
 
 ;; `page` is the container type component in `doc-site`. All other components of
