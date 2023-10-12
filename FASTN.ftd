@@ -1,8 +1,5 @@
 -- import: fastn
 
--- fastn.package: 2048spr.github.io/fastn_web
--- import: fastn
-
 -- fastn.package: hello
 
 -- fastn.dependency: fastn-community.github.io/bling
@@ -22,3 +19,4 @@
 ;; As you know from previous example, the keyword `doc-site` becomes the default
 ;; alias, but you can give shorter alias by using `as` command.
 ;; For `doc-site` we use alias as `ds`.
+
